@@ -1,0 +1,7 @@
+﻿  Injection.cpp
+  LoaderOfLoader.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 211 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LoaderOfLoader.vcxproj -> C:\Users\Sayro\source\repos\LoaderOfLoader\x64\Release\LoaderOfLoader.exe
